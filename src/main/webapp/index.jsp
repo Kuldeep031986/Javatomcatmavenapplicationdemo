@@ -164,7 +164,7 @@
 		</div>
 		 <div class="container">
 		 
-			<div class="row text-center"><h1>Helping professionals thrive, not just survive</h1></div>
+			<div class="row text-center"><h1>Professional Drive</h1></div>
 		 
 		 
 		 </div>
